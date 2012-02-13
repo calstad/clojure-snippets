@@ -1,4 +1,5 @@
 #name: let
 #key: l
 # --
-(let [$0])
+(let [${1:bindings}]
+  $0)
