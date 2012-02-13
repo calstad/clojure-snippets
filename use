@@ -1,4 +1,4 @@
 #name: use
 #key: use
 # --
-(:use [${1:namespace} :only [$0]])
+(:use [${1:namespace} :only (${2:function})]$0)
