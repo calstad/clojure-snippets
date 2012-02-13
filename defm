@@ -1,4 +1,5 @@
 #name: defmethod
+#key: dm
 # --
 (defmethod ${1:name} ${2:match}
   [${3:args}]

@@ -1,4 +1,5 @@
 #name: ns
+#key: ns
 # --
 (ns ${1:name}
   $0)
